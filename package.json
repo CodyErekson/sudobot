@@ -1,0 +1,36 @@
+{
+  "name": "Sudo_bot",
+  "version": "0.0.0",
+  "description": "A fun demonstration Raspberry Pi robot",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "picoborgrev": ">=0.0.1",
+    "bunyan": "~1.2.3",
+    "joystick": "~0.1.1",
+    "pi-gpio": "~0.0.6",
+    "i2c": "~0.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cerekson/sudobot.git"
+  },
+  "keywords": [
+    "raspberry pi",
+    "robot",
+    "picoborg"
+  ],
+  "author": {
+      "name": "Cody Erekson",
+      "email": "cody@erekson.org",
+      "url": "http://blog.codyerekson.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cerekson/sudobot/issues"
+  },
+  "homepage": "https://github.com/cerekson/sudobot"
+}

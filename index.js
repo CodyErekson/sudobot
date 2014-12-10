@@ -62,9 +62,9 @@ methodMap.lthumb = null;
 methodMap.rthumb = null;
 //axis
 methodMap.ljoyx = null;
-methodMap.ljoyy = "SetMotor2";
+methodMap.ljoyy = "SetMotor1";
 methodMap.rjoyx = null;
-methodMap.rjoyy = "SetMotor1";
+methodMap.rjoyy = "SetMotor2";
 methodMap.rtrigger = null;
 methodMap.ltrigger = null;
 

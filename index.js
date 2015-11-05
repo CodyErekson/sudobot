@@ -16,7 +16,7 @@ var sbutton = null; //store last button pressed
 
 //Config options
 
-var verbose = false; //set true to console everything
+var verbose = true; //set true to console everything
 
 var buttonMap = {};
 buttonMap['0'] = "dup";
